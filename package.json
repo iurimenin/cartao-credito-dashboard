@@ -1,0 +1,13 @@
+{
+  "name": "cartao-credito-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard para análise de gastos do cartão de crédito",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.1",
+    "http-server": "^14.1.1"
+  }
+} 
